@@ -1,0 +1,18 @@
+h1{
+
+    color:red;
+
+}
+*{
+    
+    border:solid;
+    border-width: 20px;
+    display: flex;
+    justify-content:space-between;
+
+}
+.vidhan_webpage{
+
+    background-color: aqua;
+
+}
